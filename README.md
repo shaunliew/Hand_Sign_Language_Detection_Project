@@ -19,4 +19,7 @@
 - Hearing
 - Slient
 
+### this is how the project looks like
+![Capture](https://user-images.githubusercontent.com/63916254/170360143-0e94fb22-73ab-4282-9df8-aca3e055bdb1.PNG)
+
 #### credit to: [nicholas renotte](https://github.com/nicknochnack/TFODCourse)
